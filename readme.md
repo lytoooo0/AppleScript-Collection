@@ -1,1 +1,4 @@
-Hello
+# README
+
+Collection of useful scripts
+
